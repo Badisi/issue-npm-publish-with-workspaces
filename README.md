@@ -1,6 +1,9 @@
 # issue-npm-publish-with-workspaces
 
-This repository illustrate an issue that can be faced with `npm` when trying to publish a package.
+This repository illustrate an issue that can be faced with `npm` when trying to publish a package within a workspace.
+
+*Original issue: https://github.com/npm/cli/issues/5745*  
+*Related issues: https://github.com/dhoulb/multi-semantic-release/issues/127 and https://github.com/semantic-release/npm/issues/504*
 
 ### Info
 
