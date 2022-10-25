@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "private": true,
+    "scripts": {
+        "start": "node index"
+    },
+    "workspaces": [
+        "projects/a"
+    ]
+}
