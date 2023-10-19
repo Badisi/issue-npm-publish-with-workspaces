@@ -9,7 +9,7 @@ This repository illustrate an issue that can be faced with `npm` when trying to 
 
 - **platform**: macOS Monterey 12.5.1 (21G83)
 - **node**: v16.14.2
-- **npm**: 8.19.2 (EDIT: still exists in 9.6.0)
+- **npm**: 8.19.2 (EDIT: still exists in 10.2.0, Node 18 & 20)
 
 ### Issue
 
